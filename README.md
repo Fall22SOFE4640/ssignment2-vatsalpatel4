@@ -1,4 +1,4 @@
-# assignment_2
+# Assignment 2 Flutter - Vatsal Patel
 
 A new Flutter project.
 
