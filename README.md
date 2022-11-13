@@ -2,7 +2,7 @@
 
 **Objectives:** Practice Flutter application development, specifically widgets.
 
-## Screenshots of the output
+## Final result
 
 The app is fully functional, all the requirements were meet. To view the finsihed app you can download the file and open it, or you can look below for the screenshots of the app. Thanks!
 
