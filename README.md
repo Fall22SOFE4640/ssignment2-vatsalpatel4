@@ -1,6 +1,6 @@
 # Assignment 2 Flutter - Vatsal Patel
 
-Objectives: Practice Flutter application development!
+**Objectives:** Practice Flutter application development!
 
 ## Screenshots of the output
 
