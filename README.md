@@ -4,7 +4,7 @@
 
 ## Screenshots of the output
 
-The app is fully functionalable, all the requirements were meet. You can download the file and open it, or you can look below for the screenshots of the app. Thanks!
+The app is fully functional, all the requirements were meet. You can download the file and open it, or you can look below for the screenshots of the app. Thanks!
 
 ![1](https://user-images.githubusercontent.com/80840797/201501511-840c74be-7874-4af3-9816-56c60df15843.PNG)
 ![2](https://user-images.githubusercontent.com/80840797/201501513-4c3a4a1f-6366-4451-8461-e0a4c416e939.PNG)
