@@ -1,4 +1,4 @@
-# Assignment 2 Flutter - Vatsal Patel
+# ***Assignment 2 Flutter - Vatsal Patel***
 
 **Objectives:** Practice Flutter application development, specifically widgets.
 
