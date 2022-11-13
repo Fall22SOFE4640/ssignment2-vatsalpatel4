@@ -1,6 +1,6 @@
 # Assignment 2 Flutter - Vatsal Patel
 
-A new Flutter project.
+Flutter App.
 
 ## Screenshots of the output
 
